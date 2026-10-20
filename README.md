@@ -1,2 +1,14 @@
 # smart-park-multimodal-emergency-drill
-This multimodal digital emergency drill system targets schools and factories. It integrates multimodal large models, digital twin, real-time 3D rendering and path planning for fire &amp; earthquake drills. It supports text/image input, scene generation, immersive interaction and intelligent assessment, forming a closed-loop emergency training system.
+Zhiyuan Anxing - Multimodal Emergency Drill System for Parks
+
+## Project Description
+Digital twin emergency simulation system for schools and industrial parks, focusing on fire and earthquake scenarios.
+Features: multimodal input (text / image), scene reconstruction, evacuation path planning, 3D immersive simulation and drill evaluation.
+
+## Directory Structure
+- src/      # Source code
+- docs/     # Proposals, documents and notes
+- assets/   # Models, screenshots and resources
+
+## Tech Stack
+Python, Multimodal LLM, Digital Twin, 3D Rendering, Path Planning Algorithm
